@@ -1,0 +1,23 @@
+ .navDown{
+    background-color: #212529;
+    height: 40vh;
+    padding: 80px;
+    color: whitesmoke;
+    text-align: center;
+    font-weight: bold;
+    width: 100%;
+ }
+ .heading1{
+    font-weight: bold;
+
+ }
+ .heading2{
+    color: #909294;
+
+ }
+ .btn:hover{
+   background-color: black;
+   color: white;
+ }
+ 
+ 
