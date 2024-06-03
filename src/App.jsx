@@ -58,7 +58,7 @@ const App = () => {
     },
     {
       id: 5,
-      product: "G-Shock Full Metal 'CasiOak' Connected SKU: GMB2100D-1A ",
+      product: `G-Shock Full Metal 'CasiOak' Connected SKU: GMB2100D-1A${<br/>} `,
       price1: 50.00,
       price2: 25.00,
       button: "Add to cart",
@@ -77,7 +77,7 @@ const App = () => {
     },
     {
       id: 7,
-      product: "CASIO G-SHOCK CLASSIC GA-2100SKE-7AER Black",
+      product: `CASIO G-SHOCK CLASSIC GA-2100SKE-7AER Black${<br/>}`,
       price1: 20.00,
       price2: 18.00,
       button: "Add to cart",
