@@ -9,24 +9,25 @@
   .cards {
     grid-template-columns: repeat(3, minmax(200px, 1fr));
     margin: 50px;
+    width: 100%;
   }
 }
 
 @media screen and (max-width: 740px) {
   .cards {
-    grid-template-columns: repeat(2, minmax(150px, 1fr));
-    margin: 50px;
-    padding: 30px;
+    grid-template-columns: repeat(3, minmax(150px, 1fr));
+    width: 100%;
+    padding: 20px;
   }
 }
 @media screen and (max-width: 650px) {
   .cards {
     grid-template-columns: repeat(2, minmax(150px, 1fr));
-    margin:20px;
-    padding-left: 10px;
-    padding-right: 10px;
-
+    width: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
   }
+
 }
 
 .cardContainer {

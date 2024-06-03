@@ -82,7 +82,7 @@ const App = () => {
       price2: 18.00,
       button: "Add to cart",
       addedToCart: false,
-      image: "https://fs3.deka.ua/photo/goods/popup/1/209693/209693_20210422_1654_2205_aab474ffce4e84b94b317ef655fc5c96e.png",
+      image: "https://ik.imagekit.io/bfrs/tr:w-600,h-800,pr-true,cm-pad_resize,bg-FFFFFF/image_thewatchshop/data/CasioG-ShockExtraLarge-CombinationGA-200-1ADRG361Men8595.jpg",
     },
     {
       id: 8,

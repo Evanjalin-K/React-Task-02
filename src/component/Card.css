@@ -2,10 +2,10 @@
   position: relative;
   box-sizing: border-box;
   display: flex;
-  flex-grow: 0;
-  padding: 20px;
+  flex-wrap: wrap;
+  padding: 10px;
   text-align: center;
-  height: 140vh;
+  height: 110vh;
 }
 
 .star-rating {
@@ -18,8 +18,8 @@
 }
 
 .cardImage {
-  height: 60vh;
-  padding: 40px;
+  height: 50vh;
+  padding: 50px;
   width: 100%; 
 }
 
