@@ -77,7 +77,7 @@ const App = () => {
     },
     {
       id: 7,
-      product: "CASIO G-SHOCK CLASSIC GA-2100SKE-7AER",
+      product: "CASIO G-SHOCK CLASSIC GA-2100SKE-7AER Black",
       price1: 20.00,
       price2: 18.00,
       button: "Add to cart",
